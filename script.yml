@@ -15,3 +15,7 @@
       copy:
         src: index.html
         dest: /var/www/html/
+    - name: Install packages
+      yum:
+        name: "git"
+        state: "present"
