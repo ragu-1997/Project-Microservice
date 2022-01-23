@@ -1,0 +1,52 @@
+                                                CLOUD-BLM Repository Details 
+
+
+•	Deployment
+         |
+         |------Dotnet
+         |         |
+         |         |------------>Move Dev to QA in intividual service help of Ansible
+         |
+         |------Migrate 
+                    |
+                    |--->Migrate.yml     ---------->Migrate to Dev to QA in Apps folder help of Ansible
+                    |--->nodescript.yml  ---------->Start the node script in QA machine help of Ansible
+
+         |------Windows-Playbook
+         
+•	Ori-Jen
+      |
+      |
+      |----Dotnet
+      |       |
+      |       |-----> dotnet related Jenkins files  
+      |
+      |----Node
+      |      |
+      |      |-------> Node related Jenkins files 
+      |
+      |----UAT
+            |---UAT-Dotnet
+            |         |
+            |         |-----UAT dotnet Jenkins files
+            |
+            |---UAT-Node
+                      |
+                      |-----UAT Node Jenkins files
+
+•   Windows-Dev
+         |        ______________
+         |                     |                    
+         |----IFCExportSDK     |
+         |----IFCImportSDK     |-------------->windows dev jobs 
+         |----NWCFileCreation  |
+                _______________|
+•   Windows-QA
+         |        ______________
+         |                     |                    
+         |----IFCExportSDK     |
+         |----IFCImportSDK     |-------------->windows QA jobs 
+         |----NWCFileCreation  |
+                _______________|
+
+•   user-interface
