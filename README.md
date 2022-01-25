@@ -25,4 +25,4 @@ real time aspects like (DEV,QA,PROD) and Devops methodology.
  - [cloud guru](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwic45WNw8z1AhV13jgGHdm7CFAQFnoECAkQAQ&url=https%3A%2F%2Facloudguru.com%2F&usg=AOvVaw3WP3trCZZnS3RLLu2KOcmD)
 
 ## Screenshots
-![Alt text](Project-Microservice/project-demo-files/micro-service-Project-Diagram.jpg?raw=true "Optional Title")
+![Alt text!](project-pipeline\project-demo-files\micro-service-Project-Diagram.jpg)
