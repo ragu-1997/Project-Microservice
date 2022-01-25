@@ -55,6 +55,11 @@ App Screen-shot
 
 ![Alt text!](main-screen-12.png)
 
-![Alt text!](gdpr video.mp4)
+ 
+## Acknowledgements
+
+ - [Project-videolink](https://drive.google.com/file/d/1uCASduJx8rEc4hoOCXlVb-bIvF4bEW9j/view?usp=sharing)
+
+
 
 
