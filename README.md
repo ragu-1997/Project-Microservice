@@ -31,7 +31,7 @@ Azure Infrasture micro-service diagram
 
 CI/CD open source idealogy Infrasture micro-service diagram
 
-![Alt text!](project-pipeline\main-screen.png)
+![Alt text!](project-pipeline/main-screen.png)
 
 App Screen-shot
 
