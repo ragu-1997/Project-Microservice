@@ -56,10 +56,13 @@ App Screen-shot
 ![Alt text!](main-screen-12.png)
 
  
-## Acknowledgements
+## Project video 
 
  - [Project-videolink](https://drive.google.com/file/d/1uCASduJx8rEc4hoOCXlVb-bIvF4bEW9j/view?usp=sharing)
 
 
+Mixture Variants:
 
 
+
+https://user-images.githubusercontent.com/81232337/150962399-010afe62-68d2-459e-b650-45452920c649.mp4
