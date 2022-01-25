@@ -26,4 +26,34 @@ real time aspects like (DEV,QA,PROD) and Devops methodology.
 
 ## Screenshots
 Azure Infrasture micro-service diagram
+
 ![Alt text!](micro-service-Project-Diagram.jpg)
+
+CI/CD open source idealogy Infrasture micro-service diagram
+
+![Alt text!](project-pipeline\main-screen.png)
+
+App Screen-shot
+
+![Alt text!](project-pipeline\main-screen-2.png)
+
+![Alt text!](project-pipeline\main-screen-3.png)
+
+![Alt text!](project-pipeline\main-screen-4.png)
+
+![Alt text!](project-pipeline\main-screen-5.png)
+
+![Alt text!](project-pipeline\main-screen-6.png)
+
+![Alt text!](project-pipeline\main-screen-7.png)
+
+![Alt text!](project-pipeline\main-screen-9.png)
+
+![Alt text!](project-pipeline\main-screen-10.png)
+
+![Alt text!](project-pipeline\main-screen-11.png)
+
+![Alt text!](project-pipeline\main-screen-12.png)
+
+
+
