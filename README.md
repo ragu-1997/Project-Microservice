@@ -3,7 +3,7 @@ TITLE
 
 # overview
 
-I take one hospital samble application for orchestration and kubernetes micro service module is there but not effetive used so we try to add azure function and Containaraized application for effective usage.Add some monitoring tool and proplem triggering  alarts.so, I try to make a examble of good application modules and flow for CI/CD 
+I create one hospital samble application for automate orchestration and kubernetes micro service module. so we use Containaraized application for user traffic controlling and effective usage also. Add some monitoring tool and proplem triggering  alarts for curicial time.so, I try to make a examble of good application modules and flow for CI/CD 
 
 # Azure platform utilization
 
@@ -15,6 +15,7 @@ real time aspects like (DEV,QA,PROD) and Devops methodology.
 * Mongo DB
 * SQL DB
 * Storage service
+* Azure devops
  
 ## Acknowledgements
 
