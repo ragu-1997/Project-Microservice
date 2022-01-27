@@ -1,11 +1,13 @@
 TITLE 
 # Microservice containerized application and CI/CD process flow
 
-# overview
+# Project description
+How to Avoid the web application traffic in peak hours and mannage the all traffic without down-time
+# Project description
 
 I create one hospital sample application for automate orchestration and kubernetes micro service module. so we use Containaraized application for user traffic managing and effective usage also. Add some monitoring tool and proplem triggering  alarts for curicial time.so, I try to make a examble of good application modules and process flow for CI/CD 
 
-# Azure platform utilization
+# Core Azure services
 
 Am try to make a end to end automating so, I used azure devops tool and some open source tools.
 real time aspects like (DEV,QA,PROD) and Devops methodology.
@@ -27,6 +29,7 @@ real time aspects like (DEV,QA,PROD) and Devops methodology.
 
 ## Screenshots
 Azure Infrasture micro-service diagram
+## prototype a working model 
 
 ![Alt text!](micro-service-Project-Diagram.jpg)
 
