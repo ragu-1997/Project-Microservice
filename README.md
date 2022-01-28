@@ -62,7 +62,7 @@ App Screen-shot
  
 ## Project video 
 
- - [Project-videolink](https://drive.google.com/file/d/1uCASduJx8rEc4hoOCXlVb-bIvF4bEW9j/view?usp=sharing)
+ - [Project-videolink]()
 
 
 Development:
