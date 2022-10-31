@@ -3,11 +3,7 @@
   become: True
   tasks:
   
-   - name: Make sure a service unit is stop
-     service:
-       name: cloudblm-asset-service
-       state: stopped
-
+  
    - name: Make sure a service unit is stop
      service:
        name: cloudblm-clash-service
